@@ -1,0 +1,14 @@
+{
+  "users":[
+    {
+  "userid":"roshan",
+  "age":21,
+  "phone":9833279568     
+    },
+    {
+      "userid":"sneha",
+  "age":14,
+  "phone":9820201994
+    }
+  ]
+}
